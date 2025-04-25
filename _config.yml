@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiabin Tang' Homepage"
-description              : "Jiabin Tang is a first-year Ph.D. student, whose research interests lie in Graph Neural Networks, Large Language Models and deep learning applications. "
-repository               : "tjb-tech/tjb-tech.github.io"
+title                    : "Luhui Xu' Homepage"
+description              : "Luhui Xu is an algorithm researcher, whose research interests lie in Vision-and-language and Large Language Models. "
+repository               : "lukenxu/luhuixu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiabin Tang"
-  avatar           : "images/tjb_0708_final.jpg"
+  name             : "Luhui Xu"
+  avatar           : "images/luhuixu.jpg"
   bio              : "The University of Hong Kong (HKU)"
-  location         : "Hong Kong, China"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=GUXIfJgAAAAJ"
-  email            : "jiabintang77@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Jiabin_Tang4"
+  googlescholar    : "https://scholar.google.com/citations?user=d85dtJwAAAAJ&hl=zh-CN"
+  email            : "luhuixu.cn@gmail.com"
+  researchgate     : ""
   uri              :
   bitbucket        :
   codepen          :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tjb-tech"
+  github           : "lukenxu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jiabin-tang-ds"
+  linkedin         : "鲁辉-徐-3027011b8"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "tangjiabin7"
+  twitter          : "luhui_xu"
   vine             :
   weibo            :
   xing             :
