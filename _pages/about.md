@@ -50,7 +50,7 @@ My research interest includes **LLM**, **Agent** and **VLM**. I have published s
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/token_mixing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/AAAI 2023-orange' />[Token mixing: parameter-efficient transfer learning from image-language to video-language](https://ojs.aaai.org/index.php/AAAI/article/view/25267/25039) &nbsp;<br>
+🎯<img src='https://img.shields.io/badge/AAAI 2023-orange' />[Token mixing: parameter-efficient transfer learning from image-language to video-language](https://ojs.aaai.org/index.php/AAAI/article/view/25267) &nbsp;<br>
 Yuqi Liu, Luhui Xu, Pengfei Xiong, Qin Jin
 
 </div>
@@ -59,7 +59,7 @@ Yuqi Liu, Luhui Xu, Pengfei Xiong, Qin Jin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2022</div><img src='images/tmm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://scholar.google.com/citations?view_op=view_citation&hl=zh-CNuser=d85dtJwAAAAJ&citation_for_view=d85dtJwAAAAJ:2osOgNQ5qMEC' />[Transferring image-clip to video-text retrieval via temporal relations](https://arxiv.org/pdf/2207.07852) &nbsp;<br>
+🎯<img src='https://img.shields.io/badge/TMM 2022-orange' />[Transferring image-clip to video-text retrieval via temporal relations](https://ieeexplore.ieee.org/document/9973385) &nbsp;<br>
 Han Fang, Pengfei Xiong, Luhui Xu, Wenhan Luo
 
 </div>
