@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Luhui Xu' Homepage"
 description              : "Luhui Xu is an algorithm researcher, whose research interests lie in LLM and VLM. "
-repository               : "lukenxu/luhuixu.github.io"
+repository               : "lukenxu/lukenxu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
