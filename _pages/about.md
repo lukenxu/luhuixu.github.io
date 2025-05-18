@@ -65,7 +65,7 @@ Han Fang, Pengfei Xiong, Luhui Xu, Wenhan Luo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/Ts2-net' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/Ts2-net.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 🎯<img src='https://img.shields.io/badge/ECCV 2022-orange' />[TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval](https://arxiv.org/pdf/2207.07852) &nbsp;
