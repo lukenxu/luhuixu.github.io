@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Luhui Xu' Homepage"
-description              : "Luhui Xu is an algorithm researcher, whose research interests lie in Vision-and-language and Large Language Models. "
+description              : "Luhui Xu is an algorithm researcher, whose research interests lie in LLM and VLM. "
 repository               : "lukenxu/luhuixu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Luhui Xu"
-  avatar           : "images/luhuixu.jpg"
-  bio              : "The University of Hong Kong (HKU)"
+  avatar           : "images/xuluhui.jpg"
+  bio              : "Bytedance"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
