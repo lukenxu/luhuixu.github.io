@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a LLM algorithm engineer in the Seed department of ByteDance. Before joining ByteDance, I was a VLM algorithm engineer at Tencent PCG. And I worked as computer vision algorithm researcher at research institute of Megvii Technology(Face++) earlier.
+I am a LLM algorithm engineer in department Seed of ByteDance. Before joining ByteDance, I was a VLM algorithm engineer at Tencent PCG. And I worked as computer vision algorithm researcher at research institute of Megvii Technology(Face++) earlier.
 
 My research interest includes **LLM**, **Agent** and **VLM**. I have published some papers at the top international AI conferences such as AAAI, ECCV, TMM. 
 
@@ -99,7 +99,7 @@ Han Fang, Pengfei Xiong, Luhui Xu, Yu Chen
 
 
 # 📖 Educations
-- *2015.09 - 2018.01*, M.S. in Automation, Harbin institute of Technology (HIT)
+- *2015.09 - 2018.01*, M.S. in Automation, Harbin Institute of Technology (HIT)
 
 - *2011.09 - 2015.06*, B.S. in Automation, China University of Mining and Technology (CUMT)
 
